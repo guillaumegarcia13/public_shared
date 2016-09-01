@@ -1,4 +1,8 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	 xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	 xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+	 xmlns:fcom="http://www.freelance/com" 
+	 version="2.0">
 <channel>
 <title>freelance.com - Offres de Mission</title>
 <link>http://www.freelance.com//fr/search/mission?query=</link>
@@ -16,8 +20,8 @@ http://www.freelance.com/fr/mission/view/CP-AMOA-BI-domaine-bancaire/dbf9112256d
 http://www.freelance.com/fr/mission/view/CP-AMOA-BI-domaine-bancaire/dbf9112256d5d9d10156e19694414fdb
 </guid>
 <dc:date>2016-08-31T17:12:37Z</dc:date>
-<lieu>Casablanca(Maroc)</lieu>
-<budget>A négocier</budget>
+<fcom:lieu>Casablanca(Maroc)</fcom:lieu>
+<fcom:budget>A négocier</fcom:budget>
 </item>
 <item>
 <title>expert technique Informatica MDM</title>
@@ -32,8 +36,8 @@ Pour notre client du secteur finance, basé à Paris , nous recherchons dans le 
 http://www.freelance.com/fr/mission/view/expert-technique-Informatica-MDM/dbf9112256d5d9d10156e19381bc4fbc
 </guid>
 <dc:date>2016-08-31T17:09:15Z</dc:date>
-<lieu>Paris(France)</lieu>
-<budget>A négocier</budget>
+<fcom:lieu>Paris(France)</fcom:lieu>
+<fcom:budget>A négocier</fcom:budget>
 </item>
 <item>
 <title>ingénieur développement BI Datastage/Qlikview</title>
@@ -48,8 +52,8 @@ Mission sur région parisienne, proche Paris sud ouest Pour l'un de nos clients 
 http://www.freelance.com/fr/mission/view/ingenieur-developpement-BI-Datastage-Qlikview/dbf9112256d5d9d10156e18d3c444f78
 </guid>
 <dc:date>2016-08-31T17:02:24Z</dc:date>
-<lieu>Haut-de-seine(France)</lieu>
-<budget>A négocier</budget>
+<fcom:lieu>Haut-de-seine(France)</fcom:lieu>
+<fcom:budget>A négocier</fcom:budget>
 </item>
 <item>
 <title>Consultant SAP PP</title>
@@ -64,8 +68,8 @@ Notre client cherche un consultant senior SAP PP pour l'accompagner dans l'impl�
 http://www.freelance.com/fr/mission/view/Consultant-SAP-PP/dbf9112256d5d9d10156e12195584bba
 </guid>
 <dc:date>2016-08-31T15:04:49Z</dc:date>
-<lieu>Paris(France)</lieu>
-<budget>A négocier</budget>
+<fcom:lieu>Paris(France)</fcom:lieu>
+<fcom:budget>A négocier</fcom:budget>
 </item>
 <item>
 <title>CP Technique et Infrastructure</title>
@@ -80,7 +84,6 @@ http://www.freelance.com/fr/mission/view/CP-Technique-et-Infrastructure/dbf91122
 http://www.freelance.com/fr/mission/view/CP-Technique-et-Infrastructure/dbf9112256d5d9d10156e063c3af455f
 </guid>
 <dc:date>2016-08-31T11:37:29Z</dc:date>
-<lieu>Casablanca (Maroc)
-</lieu>
-<budget>A négocier</budget>
+<fcom:lieu>Casablanca (Maroc)</fcom:lieu>
+<fcom:budget>A négocier</fcom:budget>
 </item>
